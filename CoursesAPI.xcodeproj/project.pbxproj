@@ -11,6 +11,8 @@
 		95A3DCA62754E90900F25729 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A3DCA52754E90900F25729 /* ContentView.swift */; };
 		95A3DCA82754E90B00F25729 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95A3DCA72754E90B00F25729 /* Assets.xcassets */; };
 		95A3DCAB2754E90B00F25729 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95A3DCAA2754E90B00F25729 /* Preview Assets.xcassets */; };
+		95A3DCB22754E94700F25729 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A3DCB12754E94700F25729 /* API.swift */; };
+		95A3DCB42754E99200F25729 /* CourseData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A3DCB32754E99200F25729 /* CourseData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		95A3DCA52754E90900F25729 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		95A3DCA72754E90B00F25729 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95A3DCAA2754E90B00F25729 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		95A3DCB12754E94700F25729 /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
+		95A3DCB32754E99200F25729 /* CourseData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				95A3DCA52754E90900F25729 /* ContentView.swift */,
 				95A3DCA72754E90B00F25729 /* Assets.xcassets */,
 				95A3DCA92754E90B00F25729 /* Preview Content */,
+				95A3DCB12754E94700F25729 /* API.swift */,
+				95A3DCB32754E99200F25729 /* CourseData.swift */,
 			);
 			path = CoursesAPI;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				95A3DCA62754E90900F25729 /* ContentView.swift in Sources */,
+				95A3DCB22754E94700F25729 /* API.swift in Sources */,
+				95A3DCB42754E99200F25729 /* CourseData.swift in Sources */,
 				95A3DCA42754E90900F25729 /* CoursesAPIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
